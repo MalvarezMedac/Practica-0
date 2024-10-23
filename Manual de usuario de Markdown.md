@@ -29,8 +29,8 @@ En el caso de que te apetezca crear una lista ordenada tienes que escribirla tal
 1. Primera posición
 2. Segunda posición
 3. Tercera posición
-    1. Primera posicion de una lista integrada
-    2. Segunda posición de una lista integrada
+    - Primera posicion de una lista integrada
+    - Segunda posición de una lista integrada
 4. Cuarta posición
 
 En el caso de que quieras comentar codigo puedes poner `<br>` `` estas comillas
@@ -40,3 +40,10 @@ En el caso de que quieras tener una imagen en tu codigo<br>
 Seria tal que asi:
 
 ![Alien](./Alien.jpg)
+
+En el caso de que quieras hacer una tabla 
+| Columna 1  | Columna 2  | Columna 3  |
+|------------|------------|------------|
+| Fila 1     | Celda 4    | Celda 7    |
+| Fila 2     | Celda 5    | Celda 8    |
+| Fila 3     | Celda 6    | Celda 9    |
